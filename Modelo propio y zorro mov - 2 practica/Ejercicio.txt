@@ -1,0 +1,10 @@
+Crear un escena en R3F que incluya: 
+1.
+Cargar un modelo 3D  GLTF (.glb) (de su proyecto).
+Aplicar texturas a un modelo 3D.
+Crear un Texto e implementar Float (diapositivas) y cambiar la velocidad.
+2.
+Cambiarle el controls que deseen
+Animar el Modelo Fox (Solo el movimiento sin que se desplaze)
+3. Investiguen los tipos de archivos de modelos 3D que admite Three.js
+Nota: subir 2 archivos independientes sin la carpeta node_modules
