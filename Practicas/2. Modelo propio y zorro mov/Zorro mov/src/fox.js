@@ -15,7 +15,7 @@ export default function Fox(){
       const walking = movement.actions.Run
       walking.play()
     }
-  }, [])
+  }, [isLoaded])
 
   return (
     <group scale={0.05} position-z={-1}>
